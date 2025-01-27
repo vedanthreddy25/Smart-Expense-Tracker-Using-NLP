@@ -60,5 +60,3 @@ This project was developed as part of the coursework at the University of New Ha
 - Manichandra Domala
 - Vedanth Reddy Doddannagari
 
-## References
-For detailed references, check the accompanying paper [here](path-to-paper).
